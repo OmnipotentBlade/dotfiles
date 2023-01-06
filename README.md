@@ -4,6 +4,6 @@ Here you'll find my configuration files for various programs and shells that I u
 
 ## Stuff I Use:
 - **Font:**         Nerd Fonts Fira Code Normal
-- **Terminal:**     Windows Terminal
+- **Terminal:**     Windows Terminal & iTerm2
 - **Shell:**        zsh + oh-my-zsh
 - **Shell Theme:**  powerlevel10k
